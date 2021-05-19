@@ -1,0 +1,2 @@
+* Awesome Blazor
+https://github.com/AdrienTorris/awesome-blazor
