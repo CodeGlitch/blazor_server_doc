@@ -1,2 +1,1 @@
-# blazor_server_doc
- 
+Compilation of useful blazor server resources for personal use
