@@ -1,4 +1,4 @@
-## Compilation of useful blazor server resources for personal use
+## (WIP) Compilation of useful blazor server resources for personal use
 
 ### Creating a Blazor Server Project
 * https://github.com/CodeGlitch/blazor_server_project_template
