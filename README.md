@@ -12,6 +12,8 @@
 ### Windows Authentication (Get User)
 * https://github.com/CodeGlitch/WindowsAuthenticationExample
 
+### Display of table content and small form with some inputs/controls as a example 
+* https://github.com/CodeGlitch/Components
 
 ### Running your project with Ctrl+F5, instead of just F5, will allow you to make changes on the code and have it reflected without having to run again.
 
