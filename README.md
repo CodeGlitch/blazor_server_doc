@@ -22,4 +22,7 @@
 * https://github.com/CodeGlitch/dotNet5Encryption
 ### Running your project with Ctrl+F5, instead of just F5, will allow you to make changes on the code and have it reflected without having to run again.
 
+### Adding Virtual Directory in blazor server
+* https://github.com/CodeGlitch/blazor_server_doc/blob/main/assets/virtual-directory/virtual-directory.md
+
 *Mastering Markdown https://guides.github.com/features/mastering-markdown/*
