@@ -14,7 +14,8 @@
             {
                 FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(@"C:\Temp\folder"),
                 RequestPath = "/LocalStorage"
-            });```
+            });
+```
 
 Result:
 ![1.png](1.png)
