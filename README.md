@@ -6,6 +6,9 @@
 ### Installing NuGet Packages in Visual Studio 2019 
 * https://github.com/CodeGlitch/NuGet_Packages_VS2019
 
+### How to enable code-behind file, having a separate file for html and another for C#
+* https://github.com/CodeGlitch/blazor_server_doc/blob/main/assets/enable-code-behind-files/enable-code-behind.md
+
 ### Accessing SQL using blazor server
 * https://github.com/CodeGlitch/SQLAccessExample
 
