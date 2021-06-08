@@ -15,6 +15,8 @@
 ### Display of table content and small form with some inputs/controls as a example 
 * https://github.com/CodeGlitch/Components
 
+### Symmetric and Asymmetric encryption and decryption
+* https://github.com/CodeGlitch/dotNet5Encryption
 ### Running your project with Ctrl+F5, instead of just F5, will allow you to make changes on the code and have it reflected without having to run again.
 
 *Mastering Markdown https://guides.github.com/features/mastering-markdown/*
