@@ -6,7 +6,8 @@
 
 * On the new class change the naming scheme from `public class Index` to `public partial class Index : ComponentBase`
 ![2.png](2.png)
+![3.png](3.png)
 
-* You can now change most of or your code from the .razor component to the .cs file, with a few exceptions like ´inject´:
+* You can now change most of or your code from the .razor component to the .cs file, with a few exceptions like `inject`:
 
-** - ´@inject IWebHostEnvironment Environment´ becomes ´[Inject] private Microsoft.AspNetCore.Hosting.IWebHostEnvironment Environment { get; set; }´
+** `@inject IWebHostEnvironment Environment` becomes `[Inject] private Microsoft.AspNetCore.Hosting.IWebHostEnvironment Environment { get; set; }`
