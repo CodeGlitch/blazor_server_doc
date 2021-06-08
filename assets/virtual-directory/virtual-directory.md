@@ -17,9 +17,8 @@
             });
 ```
 
-Result:
 ![1.png](1.png)
 
-* To link to a file for download/display, just use the name declared previously:
+* To link to a file for download/display on the html/app side, just use the name declared previously:
 ** `/NetworkStorage/filename.ext`
 ** `/LocalStorage/filename.ext`
