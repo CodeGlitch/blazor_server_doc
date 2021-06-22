@@ -24,6 +24,9 @@
 #### Adding Virtual Directory in blazor server
 * https://github.com/CodeGlitch/blazor_server_doc/blob/main/assets/virtual-directory/virtual-directory.md
 
+#### Microsoft Internet Explorer is not supported by Blazor
+* https://github.com/CodeGlitch/blazor_server_doc/blob/main/assets/browser-not-supported/browser-not-supported.md
+
 
 #### Running your project with Ctrl+F5, instead of just F5, will allow you to make changes on the code and have it reflected without having to run again.
 
