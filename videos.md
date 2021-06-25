@@ -1,3 +1,6 @@
+* Create a REST API with .NET 5 and C#
+https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/
+
 * BlazorDay 2021 - 2nd edition
 https://www.youtube.com/watch?v=t_UyOXydnsQ
 
