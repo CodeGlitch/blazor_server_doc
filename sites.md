@@ -9,6 +9,7 @@ https://docs.microsoft.com/en-us/aspnet/core/blazor/fundamentals/signalr?view=as
 
 * Is there a way to globally catch all unhandled errors in a Blazor single page application?
 https://stackoverflow.com/questions/57539330/
+
 *.NET 6 Stuff:
 https://github.com/dotnet/aspnetcore/blob/9ace45d8dffb0c89026df3cd989b49f87c61344c/src/Components/test/testassets/BasicTestApp/ErrorBoundaryTest/CustomErrorBoundary.razor
 https://github.com/dotnet/aspnetcore/tree/9ace45d8dffb0c89026df3cd989b49f87c61344c/src/Components/test/testassets/BasicTestApp/ErrorBoundaryTest
