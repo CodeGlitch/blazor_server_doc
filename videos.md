@@ -1,3 +1,6 @@
+* Blazor Getting Started Guide - Progress Telerik
+https://www.youtube.com/watch?v=aaRAZYaJ4xc
+
 * Create a REST API with .NET 5 and C#
 https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/
 
