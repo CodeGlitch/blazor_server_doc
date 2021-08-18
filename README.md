@@ -12,7 +12,7 @@
 #### Accessing SQL using blazor server
 * https://github.com/CodeGlitch/SQLAccessExample
 
-#### Windows Authentication (Get User)
+#### (DEPRECATED) Windows Authentication (Get User)
 * https://github.com/CodeGlitch/WindowsAuthenticationExample
 
 #### Display of table content and small form with some inputs/controls as a example 
